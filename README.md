@@ -9,6 +9,7 @@ The scene shows a rotating 3D cube (default) shape, 2 controllers (icons) and a 
 - Clicking on the (Save) button will create a miniture of the active shape along with its color (without the rotation movement), and place that miniture on the left of the screen and start filling the screen with shape minitures whenever the save button is clicked. The location of these minitures is calculated to fit into the screen and to leave a space among those minitures.
 
 
-![gene1](https://user-images.githubusercontent.com/22651469/66259341-de6b1a00-e77d-11e9-99c4-acd170e65480.jpg)
+![gene1](https://user-images.githubusercontent.com/22651469/66259705-3277fd80-e782-11e9-84a5-6bd4b3384595.jpg)
 
-![gene2](https://user-images.githubusercontent.com/22651469/66259344-e1660a80-e77d-11e9-9eee-efc0835b4558.jpg)
+![gene2](https://user-images.githubusercontent.com/22651469/66259704-3277fd80-e782-11e9-8608-f0832f3e9da0.jpg)
+
