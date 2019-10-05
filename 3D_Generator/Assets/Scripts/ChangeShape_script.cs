@@ -10,12 +10,11 @@ public class ChangeShape_script : MonoBehaviour
 
     public void getRandomShape()
     {
-
         int x = Random.Range(0, 3);
         switch (x)
         {
             case 0:
-                Debug.Log("Generaor : cube");
+                Debug.Log("Generator : cube");
                 if (!cube.active)
                     cube.SetActive(true);
                 if (sphere.active)
